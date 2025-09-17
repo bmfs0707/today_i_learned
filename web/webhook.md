@@ -31,3 +31,4 @@ webhook
 
 - [토스페이먼츠 개발자센터 용어사전 - webhook](https://docs.tosspayments.com/resources/glossary/webhook)
 - [Redhat - 토픽 - 자동화와 관리 - 웹후크란?](https://www.redhat.com/ko/topics/automation/what-is-a-webhook)
+- [MS APP.NET Webhooks 개요](https://learn.microsoft.com/ko-kr/aspnet/webhooks/)
